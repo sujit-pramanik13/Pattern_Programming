@@ -6,7 +6,7 @@ public class All_Character_Related_Programming {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// hello ji
 		Scanner sc = new Scanner(System.in);
 		 
 		 System.out.println("Enter total number of rows ");
